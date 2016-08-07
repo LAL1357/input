@@ -1,0 +1,344 @@
+STRING 18
+{
+环绕
+}
+
+STRING 20
+{
+没有说明
+}
+
+STRING 236
+{
+英雄的生命值是满的。。
+}
+
+STRING 582
+{
+计分屏
+}
+
+STRING 583
+{
+0
+}
+
+STRING 584
+{
+0
+}
+
+STRING 585
+{
+|CFFFF0000K|R
+}
+
+STRING 586
+{
+|Cff0000ffD|R
+}
+
+STRING 587
+{
+|Cffffff00——第一阵营——|R
+}
+
+STRING 588
+{
+|Cffffff00——第二阵营——|R
+}
+
+STRING 601
+{
+
+}
+
+STRING 602
+{
+
+}
+
+STRING 750
+{
+主机
+}
+
+STRING 751
+{
+其他玩家
+}
+
+STRING 752
+{
+队伍模式
+}
+
+STRING 753
+{
+两个队伍
+}
+
+STRING 754
+{
+四个队伍
+}
+
+STRING 755
+{
+各自为战
+}
+
+STRING 756
+{
+回合数
+}
+
+STRING 757
+{
+1局
+}
+
+STRING 758
+{
+2局
+}
+
+STRING 759
+{
+4局
+}
+
+STRING 760
+{
+6局
+}
+
+STRING 761
+{
+8局
+}
+
+STRING 762
+{
+10局
+}
+
+STRING 763
+{
+回合时间
+}
+
+STRING 764
+{
+5分钟
+}
+
+STRING 765
+{
+8分钟
+}
+
+STRING 766
+{
+10分钟
+}
+
+STRING 767
+{
+15分钟
+}
+
+STRING 768
+{
+20分钟
+}
+
+STRING 769
+{
+30分钟
+}
+
+STRING 770
+{
+准备时间：
+}
+
+STRING 771
+{
+ - 每%d点增加一点的护甲|n - 每点增加移动速度
+}
+
+STRING 904
+{
+|cffffcc00系统正在随机分组中，请稍后。。。|r
+}
+
+STRING 905
+{
+|cffffcc00各自为战模式被开启，每个玩家将单独成为一个阵营，请尽情享受相互厮杀的乐趣吧。。。|r
+}
+
+STRING 907
+{
+|cffffcc00经过随机分组，您被分到了第一阵营中，请与您的队友共同作战吧！|r
+}
+
+STRING 908
+{
+|cffffcc00经过随机分组，您被分到了第二阵营中，请与您的队友共同作战吧！|r
+}
+
+STRING 909
+{
+|cffffcc00经过随机分组，您被分到了第一阵营中，请与您的队友共同作战吧！|r
+}
+
+STRING 910
+{
+|cffffcc00经过随机分组，您被分到了第二阵营中，请与您的队友共同作战吧！|r
+}
+
+STRING 911
+{
+|cffffcc00经过随机分组，您被分到了第三阵营中，请与您的队友共同作战吧！|r
+}
+
+STRING 912
+{
+|cffffcc00经过随机分组，您被分到了第四阵营中，请与您的队友共同作战吧！|r
+}
+
+STRING 922
+{
+计分屏
+}
+
+STRING 923
+{
+0
+}
+
+STRING 924
+{
+0
+}
+
+STRING 925
+{
+|CFFFF0000K|R
+}
+
+STRING 926
+{
+|Cff0000ffD|R
+}
+
+STRING 927
+{
+|Cffffff00——第一阵营——|R
+}
+
+STRING 928
+{
+|Cffffff00——第二阵营——|R
+}
+
+STRING 929
+{
+|Cffffff00——第三阵营——|R
+}
+
+STRING 930
+{
+|Cffffff00——第四阵营——|R
+}
+
+STRING 931
+{
+计分屏
+}
+
+STRING 932
+{
+0
+}
+
+STRING 933
+{
+0
+}
+
+STRING 934
+{
+|CFFFF0000K|R
+}
+
+STRING 935
+{
+|Cff0000ffD|R
+}
+
+STRING 936
+{
+
+}
+
+STRING 937
+{
+
+}
+
+STRING 938
+{
+
+}
+
+STRING 939
+{
+
+}
+
+STRING 966
+{
+准备时间：
+}
+
+STRING 967
+{
+回合时间：
+}
+
+STRING 968
+{
+回合时间：
+}
+
+STRING 969
+{
+本回合打出了平局，期待下一回合见分晓！
+}
+
+STRING 970
+{
+本回合打出了平局，期待下一回合见分晓！
+}
+
+STRING 971
+{
+本回合第四阵营获得胜利！
+}
+
+STRING 972
+{
+本回合第三阵营获得胜利！
+}
+
+STRING 973
+{
+本回合第二阵营获得胜利！
+}
+
+STRING 974
+{
+本回合第一阵营获得胜利！
+}

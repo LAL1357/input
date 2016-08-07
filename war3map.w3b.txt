@@ -1,0 +1,16 @@
+return
+{
+	VERSION=2,
+	ORIGIN={
+		ATtc={
+			bflh=0.0000
+		},
+		IOt0={
+			bnam="冰封王座1"
+		},
+	},
+	CUSTOM={
+
+	},
+}
+

@@ -1,0 +1,6 @@
+[Errors]
+HPmaxed=TRIGSTR_236
+
+[FrameDef]
+BONUS_DEFENSE_FIXED=TRIGSTR_771
+

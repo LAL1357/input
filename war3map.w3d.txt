@@ -1,0 +1,13 @@
+return
+{
+	VERSION=2,
+	ORIGIN={
+		ZOrp={
+			dnam="遗迹柱子1"
+		},
+	},
+	CUSTOM={
+
+	},
+}
+
